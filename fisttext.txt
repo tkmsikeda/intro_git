@@ -4,3 +4,4 @@
 4回目の編集
 5回目
 git diffチェック用
+git commit --amend
